@@ -1,0 +1,5 @@
+mailing
+sms
+*.swp
+send_sms.php
+.DS_Store
